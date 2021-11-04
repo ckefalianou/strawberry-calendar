@@ -1,0 +1,8 @@
+{
+  "name": "Strawberry calendar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "0bfaed65"
+}
