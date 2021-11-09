@@ -18,6 +18,8 @@
     "@ionic/vue": "^5.4.0",
     "@ionic/vue-router": "^5.4.0",
     "core-js": "^3.6.5",
+    "pickerjs": "^1.2.1",
+    "v-calendar": "^2.3.4",
     "vue": "^3.2.1",
     "vue-router": "^4.0.0-0"
   },
