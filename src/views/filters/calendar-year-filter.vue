@@ -6,7 +6,7 @@
         <input @input="setYear($event)" type="range" v-model="activeYear"  min="1900" max="2300">
         <span class="range-max">2300</span>
     </div>
-    <input  class="activeYear" v-model="activeYear">
+    <input @input="setYear($event)" class="activeYear" v-model="activeYear">
 </template>
 
 <style>
@@ -25,7 +25,7 @@
     .calendar-year-filter{
         position: relative;
         display: inline-block;
-        width: calc(100% - 200px);
+        width: calc(100% - 95px);
         vertical-align: middle;
     }
     .range-min {

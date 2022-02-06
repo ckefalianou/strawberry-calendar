@@ -46,6 +46,7 @@ import calendarDayFilter from './calendar-day-filter.vue';
 import calendarMonthFilter from './calendar-month-filter.vue';
 import calendarYearFilter from './calendar-year-filter.vue';
 import calendarViewFilter from './calendar-view-filter.vue';
+
 export default {
     components: {
         calendarDayFilter,

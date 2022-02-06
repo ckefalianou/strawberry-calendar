@@ -17,6 +17,10 @@
     .weekday{
         text-align: center;
     }
+    .day:nth-child(7n+1) { 
+        border-left: 1px solid #000;
+    }
+
     .day {
         width: 14.2%;
         text-align: right;

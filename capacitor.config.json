@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "Strawberry calendar",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "gr.ckefalianou.strawberrycalendar",
+  "appName": "Strawberry Calendar",
+  "webDir": "dist",
+  "bundledWebRuntime": false
 }

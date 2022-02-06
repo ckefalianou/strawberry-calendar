@@ -10,7 +10,9 @@
     </div>
 </template>
 <style scoped>
-
+.calendar-cells {
+    padding: 20px 20px 100px 20px;
+}
 </style>
 <script>
 import  calendarCell  from './calendar-cell.vue';

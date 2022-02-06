@@ -1,0 +1,6 @@
+{
+	"appId": "gr.ckefalianou.strawberrycalendar",
+	"appName": "Strawberry Calendar",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

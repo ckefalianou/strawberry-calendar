@@ -22,6 +22,7 @@ import '@ionic/vue/css/typography.css';
 
 /* Theme variables */
 import './theme/variables.css';
+import './theme/general-settings.css';
 
 const app = createApp(App)
   .use(IonicVue)
